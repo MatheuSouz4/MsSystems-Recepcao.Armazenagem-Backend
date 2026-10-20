@@ -33,5 +33,5 @@ Certifique-se de ter as seguintes ferramentas instaladas na sua máquina antes d
 
 1. **Clone o repositório:**
    ```bash
-   git clone <url-do-seu-repositorio>
+   git clone <(https://github.com/MatheuSouz4/MsSystems-Recepcao.Armazenagem-Backend)>
    cd "MsSystems - Controle de Recepção e Armazenagem - Backend"
