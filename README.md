@@ -1,4 +1,4 @@
-# MsSystems - Backend (Sistema de Gestão de Controle de Recepção e Armazenagem)
+# MsSystems - Sistema de Gestão de Controle de Recepção e Armazenagem - Backend
 
 API REST desenvolvida para o gerenciamento e controle industrial de recepção, pesagem de matérias-primas, triagem de qualidade, gestão de lotes e rastreabilidade de estoque.
 
