@@ -8,13 +8,13 @@ API REST desenvolvida para o gerenciamento e controle industrial de recepção, 
 
 Este projeto foi construído utilizando as melhores práticas do ecossistema Java moderno:
 
-* **Java 21 (LTS)**[cite: 1]
-* **Spring Boot (v4.1.1)**[cite: 1]
-* **Spring Web** (Construção de APIs RESTful)[cite: 1]
-* **Spring Data JPA & Hibernate** (Persistência e Mapeamento Objeto-Relacional)[cite: 1]
-* **Spring Security** (Autenticação e Controle de Acesso)[cite: 1]
-* **Bean Validation** (Validação rigorosa de dados industriais)[cite: 1]
-* **PostgreSQL** (Banco de dados relacional principal)[cite: 1]
+* **Java 21 (LTS)**
+* **Spring Boot (v4.1.1)**
+* **Spring Web** (Construção de APIs RESTful)
+* **Spring Data JPA & Hibernate** (Persistência e Mapeamento Objeto-Relacional)
+* **Spring Security** (Autenticação e Controle de Acesso)
+* **Bean Validation** (Validação rigorosa de dados industriais)
+* **PostgreSQL** (Banco de dados relacional principal)
 * **Maven** (Gerenciamento de dependências e build)
 
 ---
